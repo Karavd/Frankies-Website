@@ -1,0 +1,28 @@
+.navContainer {
+    background-color: lightgray;
+}
+.navItems {
+    display: inline-block;
+    background-color: grey;
+    padding: 15px;
+    color: white;
+}
+
+.lefty {
+    width: 29%;
+    height: 80vh;
+    float: left;
+}
+.righty {
+    width: 70%;
+    height: 80vh;
+    float: left;
+}
+#leftyTop{
+    height: 30%;
+    background-color: orange;
+}
+#leftyBottom {
+    background-color: orangered;
+    height: 70%;
+}
